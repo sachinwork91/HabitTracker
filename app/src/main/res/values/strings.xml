@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="choose_activity">Choose a activity</string>
+    <string-array name="userActivities">
+        <item>Running</item>
+        <item>Walking</item>
+        <item>Music</item>
+        <item>Playing</item>
+        <item>Working</item>
+        <item>Sleeping</item>
+        <item>Wasting time on Internet</item>
+        <item>Cooking</item>
+    </string-array>
+    <string name="title_activity_history">ActivityHistory</string>
+    <string name="unsuccessfulInsert"> Not able to Insert Data </string>
+    <string name="successfulInsert"> Data saved Sucessfully </string>
+    <string name="activityMessage">Your activity lasted for </string>
+</resources>
